@@ -22,7 +22,7 @@ name                     : "Leandro Lucarella"
 description: >- # this means to ignore newlines until "baseurl:"
   Lunofono is a media player app specially designed for toddlers and small
   children.
-url                      : "https://lunofono.llucax.com"
+url                      : "https://lunofono.app"
 baseurl                  : "" # the subpath of your site, e.g. /blog
 repository               : "lunofono/lunofono.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -103,21 +103,30 @@ author:
   avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Berlin, Germany"
-  email            : "luca-lunofono@llucax.com"
+  email            : "contact@lunofono.app"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:luca-lunofono@llucax.com"
+      url: "mailto:contact@lunofono.app"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://llucax.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/llucax"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lucatweets"
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@lunofono.app"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lunofono"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lunofono"
